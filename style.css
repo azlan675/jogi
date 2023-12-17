@@ -1,1 +1,78 @@
+ .twitter1{
+    background-color:  #e7eaf0;
+  width: 300px;
+  border: 2px solid rgb(1, 24, 1);
+  padding: 30px;
+  
+  
+text-align: center;
+
+}
+
+ .button1
+ {
+background-color: black;
+color: aliceblue;
+width: 200px;
+line-height: 40px;
+border: 5px;
+border-radius: 20px;
+}
+ 
+.insta2{
+    background-color: rgb(216, 38, 112);
+  width: 300px;
+  border: 2px solid rgb(11, 12, 11);
+  padding: 30px;
+  color: aliceblue;
+text-align: center;
+}
+
+.button2{
+    background-color: black;
+color: aliceblue;
+width: 200px;
+line-height: 40px;
+border: 5px;
+border-radius: 20px;
+
+
+}
+
+
+
+.youtube3{
+    background-color: rgb(236, 231, 231);
+  width: 300px;
+  border: 2px solid rgb(11, 12, 11);
+  padding: 30px;
+  
+text-align: center;
+}
+
+.button3{
+    background-color: black;
+color: aliceblue;
+width: 200px;
+line-height: 40px;
+border: 5px;
+border-radius: 20px;
+
+}
+.instaparagh2{
+  margin-bottom: 10%;
+
+
+}
+.twitterparagh1
+{
+  margin-bottom: 10%;
+
+}
+
+.youtubeparagh3
+{
+  margin-bottom: 10%;
+}
+
 
